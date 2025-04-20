@@ -9,3 +9,7 @@ env/
 
 # Ignore other notebooks you don't want
 Untitled*.ipynb
+env/
+*.csv
+.ipynb_checkpoints/
+Untitled*.ipynb
