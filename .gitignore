@@ -1,0 +1,11 @@
+# Ignore virtual environment
+env/
+
+# Ignore dataset files
+*.csv
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore other notebooks you don't want
+Untitled*.ipynb
